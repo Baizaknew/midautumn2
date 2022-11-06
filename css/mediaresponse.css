@@ -1,0 +1,246 @@
+@media (min-width: 1920px) {
+  .general-page {
+    width: 100vw;
+    background-size: cover;
+  }
+  .navigation-1 {
+    width: 100vw;
+    gap: 30px;
+  }
+  .right-login-1 {
+    margin-right: 50px;
+  }
+  .get-started-1 {
+    margin-right: 50px;
+  }
+  .login-1 {
+    margin-left: 50px;
+  }
+  .animation-image-1 {
+    width: 850px;
+    height: 470px;
+    margin-left: 350px;
+    margin-top: 250 px;
+  }
+  .container-3D {
+    width: 1920px;
+  }
+  /* END Section-1------------------------------------------- */
+  .photo-6-photo {
+    margin-right: 150px;
+  }
+  .photo-6-p {
+    margin-left: 100px;
+  }
+}
+@media (max-width: 1280px) {
+  .general-page {
+    width: 100vw;
+  }
+  .navigation-1 {
+    width: 100vw;
+  }
+  .right-login-1 {
+    margin-right: 50px;
+  }
+  .get-started-1 {
+    margin-right: 30px;
+  }
+  .login-1 {
+    margin-left: 30px;
+  }
+  .animation-image-1 {
+    width: 650px;
+    height: 470px;
+    margin-right: 150px;
+    margin-top: 250px;
+  }
+  .container-3D {
+    width: 1280px;
+  }
+  /* END Section-1------------------------------------------- */
+
+  .photo-6-photo {
+    margin-right: 150px;
+  }
+  .photo-6-p {
+    margin-left: 100px;
+  }
+
+  .section-2 {
+    width: 1280;
+  }
+}
+
+@media (max-width: 1024px) {
+  .general-page {
+    width: 100vw;
+  }
+  .navigation-1 {
+    width: 100vw;
+    gap: 50px;
+  }
+  .right-login-1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .get-started-1 {
+    align-items: center;
+    padding: 0px;
+  }
+  .login-1 {
+    margin-left: 100px;
+  }
+  .animation-image-1 {
+    width: 650px;
+    height: 370px;
+    margin-right: 50px;
+    margin-top: 250px;
+  }
+
+  .image-1 {
+    width: 450px;
+  }
+  .main-1-h1 {
+    font-weight: bold;
+    font-size: 45px;
+    margin: 0;
+    line-height: 45px;
+  }
+
+  .main-1-p {
+    margin-bottom: 50px;
+    font-weight: bold;
+    width: 370px;
+    line-height: 15px;
+  }
+  .container-3D {
+    display: none;
+  }
+  /* END Section-1------------------------------------------- */
+  .section-2 {
+    width: 100vw;
+  }
+
+  .section-4 {
+    width: 100vw;
+  }
+  .photos-4 {
+    flex-direction: column;
+  }
+  .photos-5 {
+    align-items: center;
+    position: relative;
+  }
+
+  .flex-start-5 {
+    margin-bottom: 0px;
+  }
+  .flex-p-5 {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+  .photo-5-photo {
+    width: 558px;
+    height: 383px;
+  }
+  .photo-55-photo {
+    width: 377px;
+    height: 269px;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+  }
+  .photos-6 {
+    flex-direction: column;
+  }
+  .photo-6-p {
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 640px) {
+  .general-page {
+    width: 100vw;
+  }
+  .navigation-1 {
+    width: 100vw;
+    gap: 50px;
+  }
+  .right-login-1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .get-started-1 {
+    align-items: center;
+    padding: 0px;
+  }
+  .login-1 {
+    margin-left: 100px;
+  }
+  .animation-image-1 {
+    width: 650px;
+    height: 370px;
+    margin-right: 50px;
+    margin-top: 250px;
+  }
+
+  .image-1 {
+    width: 450px;
+  }
+  .main-1-h1 {
+    font-weight: bold;
+    font-size: 45px;
+    margin: 0;
+    line-height: 45px;
+  }
+
+  .main-1-p {
+    margin-bottom: 50px;
+    font-weight: bold;
+    width: 370px;
+    line-height: 15px;
+  }
+  .container-3D {
+    display: none;
+  }
+  /* END Section-1------------------------------------------- */
+  .section-2 {
+    width: 100vw;
+  }
+
+  .section-4 {
+    width: 100vw;
+  }
+  .photos-4 {
+    flex-direction: column;
+  }
+  .photos-5 {
+    align-items: center;
+    position: relative;
+  }
+
+  .flex-start-5 {
+    margin-bottom: 0px;
+  }
+  .flex-p-5 {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+  .photo-5-photo {
+    width: 558px;
+    height: 383px;
+  }
+  .photo-55-photo {
+    width: 377px;
+    height: 269px;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+  }
+  .photos-6 {
+    flex-direction: column;
+  }
+  .photo-6-p {
+    margin-bottom: 30px;
+  }
+}
